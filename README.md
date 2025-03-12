@@ -38,16 +38,16 @@ Este script foi desenvolvido para fins educacionais e de auditoria de segurança
 
 *Dê permissão de execução:*
 
-    chmod +x CatapimbasNetXploit.sh
+    chmod +x Catapimbas_NetXploit.sh
 
 *Execute o script como* **root**
 
-    sudo ./CatapimbasNetXploit.sh
+    sudo ./Catapimbas_NetXploit.sh
 
 **Ou** *estar previamente como root* **(particularmente acho mais "prático" pra voltar onde parou caso router caia)**
 
     sudo su
-    ./CatapimbasNetXploit.sh
+    ./Catapimbas_NetXploit.sh
 ---
 
 **Imagens do MENU**
